@@ -19,4 +19,9 @@ Numerical Aperture measurement Jig
  7. Tabulate the various distances and diameter of the circles made on the white screen and compute the numerical aperture from the formula.
 ---
 
+## Tabulation & Calculation 
+
+<img width="978" height="1280" alt="image" src="https://github.com/user-attachments/assets/d3f8050c-fb2c-4e68-8354-25c707e535eb" />
+
 ## Result
+Thus,the numerical aperture and the acceptance angle of the optical fiber is calculated.
